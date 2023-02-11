@@ -1,0 +1,16 @@
+.textual {
+  border: 1px;
+  padding: 10px;
+}
+
+
+/* box shadow properties for hover state: 		
+    ○ The horizontal offset is set to five pixels,
+		○ the vertical offset is set to zero pixels, 
+		○ the blur radius is set to 25 pixels, 
+the color of the shadow is set to black.  */
+
+
+.textual:hover {
+  box-shadow: 5px 0px 25px black;
+}
